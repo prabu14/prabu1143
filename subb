@@ -2,10 +2,10 @@
 #include<conio.h>
 main()
 {
-int a,b,c;
-printf("enter the value of a and b");
-scanf("%d %d",&a &b);
-c=a-b;
-printf("the addition is %d",c);
-getch();
+int d,e,f;
+printf("enter the value of d and e");
+scanf("%d %d",&d &e);
+f=d-e;
+printf("the value is %d",d);
+
 }
